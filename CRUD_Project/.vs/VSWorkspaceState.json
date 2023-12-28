@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Demo.BLL",
+    "\\Demo.BLL\\Repositries",
+    "\\Demo.DAL",
+    "\\Demo.DAL\\Models",
+    "\\Demo.PL",
+    "\\Demo.PL\\Controllers",
+    "\\Demo.PL\\Views",
+    "\\Demo.PL\\Views\\Department"
+  ],
+  "SelectedNode": "\\Demo.PL Solution.sln",
+  "PreviewInSolutionExplorer": false
+}
